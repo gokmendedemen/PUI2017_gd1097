@@ -10,4 +10,4 @@ The screenshots attached below illustrate the bash_profile and the terminal orga
 ![bash_profile_ss](https://user-images.githubusercontent.com/31747292/30631300-c0930384-9db1-11e7-8ef9-13034e263a1e.png)
 
 # 2- terminal screenshot
-![screenshot_pui_gd](https://user-images.githubusercontent.com/31747292/30631549-9b13e67c-9db2-11e7-8bb3-339f5b06f614.png)
+![screen shot 2017-09-20 at 2 53 32 am](https://user-images.githubusercontent.com/31747292/30631646-ed3716d6-9db2-11e7-9060-9a307d222c34.png)
