@@ -1,6 +1,6 @@
-###PUI 2017 HW2
+###PUI 2017 HW2###
 
-##Team composition:
+**Team composition:
 
 Michael M Sampson (mms911), Gokmen Dedemen (gokmen), Bianca Brusco (bb1569)
 
