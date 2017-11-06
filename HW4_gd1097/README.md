@@ -21,4 +21,6 @@ Logistic Regression	| 5, flow cytometry measurements (fluorescence markers) | ca
 |There is no correlation between AS and SAM | 0.05 | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072932 
 
 
-
+# FBB table formatted wrong
+# the last test has cells from the second test (references to SAM, AS)
+# the statements are generally obscure, i have no idea what each paper is about
