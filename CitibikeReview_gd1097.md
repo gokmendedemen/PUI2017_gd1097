@@ -24,3 +24,4 @@ Given the null hypothesis:
 -     If distribution of the data is not Gaussian, then non-parametric tests are safe to use
 -     Unpaired data with 2 categories. Therefore, I suggest 2 groups Mann-Whitney U test.
 
+# FBB good
