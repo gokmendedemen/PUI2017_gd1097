@@ -1,4 +1,4 @@
-PUI 2017 HW6 GOKMEN DEDEMEN
+PUI 2017 HW7 GOKMEN DEDEMEN
 
 This homework is about finalizing and updating the citibike project based on the comments from the peer review.
 In this homework assignment we worked together with the same team in HW3. We have incorporated the comments that we got from 
