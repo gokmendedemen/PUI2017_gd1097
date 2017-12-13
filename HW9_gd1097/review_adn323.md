@@ -6,4 +6,10 @@
 
 
 
+# FBB good
 
+however with this much scatter plotting a line fit without confidence intervals is misleading and can be dishonest: the confidence on the fit parameters is likely very low, by eye i would say that it is likely to include an alpha = 0, indicating no increase
+
+also: why is the resolution of the plot so low? (i know why, cause it is likely a screenshot. people should use savefig to save their figure!)
+
+10/10
